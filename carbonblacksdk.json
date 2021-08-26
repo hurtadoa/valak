@@ -27,7 +27,7 @@
                 },
                 "1": {
                     "binary_ref": "0",
-                    "command_line": "C:\\File\\System\\evil.exe -k LocalServiceAndNoImpersonation -p -s SSDPSRV",
+                    "command_line": "C:\\Users\\Downloads\\evil.zip -k LocalServiceAndNoImpersonation -p -s SSDPSRV",
                     "created": "2020-05-06T16:59:16.578Z",
                     "creator_user_ref": "8",
                     "name": "evil.exe",
@@ -291,7 +291,7 @@
                 },
                 "1": {
                     "binary_ref": "0",
-                    "command_line": "\"C:\\Program Files (x86)\\zoom-installer\\evil.exe\"",
+                    "command_line": "\"C:\\Program Files (x86)\\Downloads\evil.zip\"",
                     "created": "2020-05-06T13:05:59.127Z",
                     "creator_user_ref": "8",
                     "name": "evil.exe",
@@ -357,7 +357,7 @@
                 },
                 "1": {
                     "binary_ref": "0",
-                    "command_line": "\"C:\\Program Files (x86)\\zoom-installer\\evil.exe\"",
+                    "command_line": "\"C:\\Program Files (x86)\\Downloads\\evil.exe\"",
                     "created": "2020-05-06T13:05:59.127Z",
                     "creator_user_ref": "8",
                     "name": "evil.exe",
@@ -423,7 +423,7 @@
                 },
                 "1": {
                     "binary_ref": "0",
-                    "command_line": "\"C:\\Program Files (x86)\\zoom-installer\\evil.exe\"",
+                    "command_line": "\"C:\\Program Files (x86)\\Downloads\\evil.exe\"",
                     "created": "2020-05-06T13:05:59.127Z",
                     "creator_user_ref": "8",
                     "name": "evil.exe",
