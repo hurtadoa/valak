@@ -20,7 +20,7 @@
             "objects": {
                 "0": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -40,7 +40,7 @@
                 },
                 "2": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -86,7 +86,7 @@
             "objects": {
                 "0": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -106,7 +106,7 @@
                 },
                 "2": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -152,7 +152,7 @@
             "objects": {
                 "0": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -172,7 +172,7 @@
                 },
                 "2": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -218,7 +218,7 @@
             "objects": {
                 "0": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -238,7 +238,7 @@
                 },
                 "2": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -284,7 +284,7 @@
             "objects": {
                 "0": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -304,7 +304,7 @@
                 },
                 "2": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -350,7 +350,7 @@
             "objects": {
                 "0": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -370,7 +370,7 @@
                 },
                 "2": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -416,7 +416,7 @@
             "objects": {
                 "0": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -436,7 +436,7 @@
                 },
                 "2": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -482,7 +482,7 @@
             "objects": {
                 "0": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -502,7 +502,7 @@
                 },
                 "2": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -548,7 +548,7 @@
             "objects": {
                 "0": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
@@ -568,7 +568,7 @@
                 },
                 "2": {
                     "hashes": {
-                        "SHA-256-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
+                        "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
                     "name": "evil.exe",
                     "type": "file"
