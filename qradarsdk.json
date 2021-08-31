@@ -143,7 +143,7 @@
                     "hashes": {
                         "UNKNOWN": "File Hash"
                     },
-                    "name": "c:\Users\BJONES\Downloads\EmployeeCOVID19VaccinationSurvey.pdf",
+                    "name": "c:\\Users\\BJONES\\Downloads\\EmployeeCOVID19VaccinationSurvey.pdf",
                     "parent_directory_ref": "9"
                 },
                 "9": {
@@ -217,7 +217,7 @@
                         "MD5": "846cdb921841ac671c86350d494abf9c",
                         "SHA-256": "dc52bdf5e3f71fb9ab3b1730d445287d16d3a3c8"
                     },
-                    "name": "c:\Users\BJONES\Downloads\EmployeeCOVID19VaccinationSurvey.pdf",
+                    "name": "c:\\Users\\BJONES\\Downloads\\EmployeeCOVID19VaccinationSurvey.pdf",
                     "parent_directory_ref": "9"
                 },
                 "8": {
@@ -299,7 +299,7 @@
                 },
                 "8": {
                     "type": "file",
-                    "name": "c:\Users\BJONES\Downloads\EmployeeCOVID19VaccinationSurvey.pdf",
+                    "name": "c:\\Users\\BJONES\\Downloads\\EmployeeCOVID19VaccinationSurvey.pdf",
                     "hashes": {
                         "UNKNOWN": "File Hash"
                     },
@@ -448,7 +448,7 @@
                         "SHA-256": "70BA57FB0BF2F34B86426D21559F5F6D05C1268193904DE8E959D7B06CE964CE",
                         "imp": "A4D32F1AEF525B8ADA6A26F28596AC2E"
                     },
-                    "name": "c:\Users\BJONES\Downloads\EmployeeCOVID19VaccinationSurvey.pdf",
+                    "name": "c:\\Users\\BJONES\\Downloads\\EmployeeCOVID19VaccinationSurvey.pdf",
                     "parent_directory_ref": "8"
                 },
                 "7": {
@@ -523,7 +523,7 @@
                     "hashes": {
                         "SHA-256": "4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439"
                     },
-                    "name": "c:\Users\BJONES\Downloads\EmployeeCOVID19VaccinationSurvey.pdf",
+                    "name": "c:\\Users\\BJONES\\Downloads\\EmployeeCOVID19VaccinationSurvey.pdf",
                     "type": "file"
                 }
             },
@@ -537,7 +537,7 @@
                 "magnitude": "5",
                 "qid": "59500044",
                 "qid_name": "New File On Network",
-                "utf8_payload": "LEEF:1.0|Bit9|Parity|192.168.0.1|New_file_on_network|cat=Discovery\tsev=4\tdevTime=Jun 14 2010 10:25:35.000 UTC\tmsg=Server discovered new file 'c:\\Program Files\\QRadar\\file1.ext' \texternalId=12\tsrc=192.168.11.44\tsrcHostName=CLIO\tsrcProcess=c:\\Program Files\\QRadar_v1\\Administrator\tfilePath=c:\\Program Files\\QRadar\\file1.ext\tfileName=c:\Users\BJONES\Downloads\EmployeeCOVID19VaccinationSurvey.pdf\tfileHash=4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439\tfileId=42\tpolicy=Default Policy\tdstHost=megane\n"
+                "utf8_payload": "LEEF:1.0|Bit9|Parity|192.168.0.1|New_file_on_network|cat=Discovery\tsev=4\tdevTime=Jun 14 2010 10:25:35.000 UTC\tmsg=Server discovered new file 'c:\\Program Files\\QRadar\\file1.ext' \texternalId=12\tsrc=192.168.11.44\tsrcHostName=CLIO\tsrcProcess=c:\\Program Files\\QRadar_v1\\Administrator\tfilePath=c:\\Program Files\\QRadar\\file1.ext\tfileName=c:\\Users\\BJONES\\Downloads\\EmployeeCOVID19VaccinationSurvey.pdf\tfileHash=4f3ffaef0cf5a9a799d7026a547e2c9a777946709112dcbb2a0b588228016439\tfileId=42\tpolicy=Default Policy\tdstHost=megane\n"
             },
             "first_observed": "2020-01-03T16:42:58.149Z",
             "last_observed": "2020-01-03T16:42:58.149Z",
